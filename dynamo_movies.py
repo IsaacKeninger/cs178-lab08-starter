@@ -1,6 +1,6 @@
-# CS178 - Lab 8 Starter
 # Lab 8 - Isaac Keninger
 # Version 2
+# Date: 2/24/2026
 
 REGION = "us-east-1"
 TABLE_NAME = "Movies"
